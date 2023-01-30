@@ -1,4 +1,5 @@
 segment .data
+  mytext: db "hello", 10
 
 segment .bss
 
